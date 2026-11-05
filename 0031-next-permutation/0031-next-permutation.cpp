@@ -18,19 +18,13 @@ class Solution {
         }
         return -1;
     }
-    int greater(vector<int>&nums,int index){
-        int min=INT_MAX;
-        for(int i=index+1;i<nums.size();i++){
-            if(nums[i]<min&&nums[i]>nums[index]){
-                min=nums[i];
-            }
-        }
-        for(int i=index+1;i<nums.size();i++){
-            if(min==nums[i]){
+    int greater(vector<int>& nums, int index) {
+        for(int i = nums.size()-1; i > index; i--) {
+            if(nums[i] > nums[index]) {
                 return i;
             }
         }
-        return 0;
+        return -1;
     }
 public:
     void nextPermutation(vector<int>& nums) {
@@ -46,6 +40,6 @@ public:
         }
         int index=greater(nums,pivot);
         swap(nums[pivot],nums[index]);
-        sort(nums.begin()+pivot+1,nums.end());
+        reverse(nums.begin()+pivot+1,nums.end());
     }
 };
