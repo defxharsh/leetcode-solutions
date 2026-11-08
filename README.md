@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/defxharsh/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [1143-longest-common-subsequence](https://github.com/defxharsh/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -45,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/defxharsh/leetcode-solutions/tree/master/0075-sort-colors) |
+## String
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/defxharsh/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/defxharsh/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
