@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/defxharsh/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/defxharsh/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/defxharsh/leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/defxharsh/leetcode-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/defxharsh/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/defxharsh/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/defxharsh/leetcode-solutions/tree/master/0090-subsets-ii) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/defxharsh/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/defxharsh/leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/defxharsh/leetcode-solutions/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/defxharsh/leetcode-solutions/tree/master/0090-subsets-ii) |
 ## Two Pointers
 |  |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/defxharsh/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/defxharsh/leetcode-solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
