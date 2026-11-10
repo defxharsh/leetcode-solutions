@@ -60,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/defxharsh/leetcode-solutions/tree/master/0051-n-queens) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/defxharsh/leetcode-solutions/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/defxharsh/leetcode-solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
