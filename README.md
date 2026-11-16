@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/defxharsh/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/defxharsh/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0169-majority-element](https://github.com/defxharsh/leetcode-solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/defxharsh/leetcode-solutions/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -38,11 +39,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/defxharsh/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/defxharsh/leetcode-solutions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/defxharsh/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/defxharsh/leetcode-solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/defxharsh/leetcode-solutions/tree/master/0268-missing-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/defxharsh/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/defxharsh/leetcode-solutions/tree/master/0050-powx-n) |
+| [0268-missing-number](https://github.com/defxharsh/leetcode-solutions/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -76,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/defxharsh/leetcode-solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/defxharsh/leetcode-solutions/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -107,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/defxharsh/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/defxharsh/leetcode-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
